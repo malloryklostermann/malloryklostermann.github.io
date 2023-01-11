@@ -1,5 +1,5 @@
 ---
-image: me.jpeg
+image: profile.jpg
 about:
   template: broadside
   image-width: 20em
