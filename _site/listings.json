@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/about.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/pers.html",
+    "items": [
+      "/pers_posts/cooking/index.html",
+      "/pers_posts/plants/index.html"
+    ]
+  },
+  {
+    "listing": "/prof.html",
+    "items": [
+      "/prof_posts/dssj/index.html",
+      "/prof_posts/ml/index.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": [
+      "/posts/post-with-code/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

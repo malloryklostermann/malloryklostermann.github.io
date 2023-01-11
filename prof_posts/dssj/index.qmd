@@ -1,0 +1,6 @@
+---
+title: "Data Science & Social Justice"
+date: "2023-1-9"
+categories: [data science, social justice, research interests]
+image: "dssj.JPG"
+---

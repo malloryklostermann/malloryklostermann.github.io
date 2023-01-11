@@ -1,0 +1,17 @@
+---
+title: "Professional Interests"
+---
+
+```{r, include = FALSE}
+# listing:
+#   contents: prof_posts
+#   sort: "date desc"
+#   type: grid
+#   categories: true
+#   sort-ui: true
+#   filter-ui: true
+# page-layout: full
+# title-block-banner: false
+```
+
+Coming soon!

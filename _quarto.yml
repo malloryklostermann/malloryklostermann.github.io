@@ -1,0 +1,25 @@
+project:
+  type: website
+
+website:
+  title: "Mallory Klostermann"
+  navbar:
+    background: "#535449"
+    right:
+      - text: Home
+        file: index.qmd
+      - prof.qmd
+      - text: CV
+        file: cv.qmd
+    left:
+      - icon: linkedin
+        href: https://www.linkedin.com/in/malloryklostermann/
+      - icon: github
+        href: https://github.com/malkloster23
+format:
+  html:
+    theme: journal
+    css: styles.css
+
+editor: visual
+

@@ -1,0 +1,121 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mallory Klostermann",
+    "section": "",
+    "text": "Hello! I’m Mallory.\nI’m currently a senior in statistics at the University of Illinois in Urbana-Champaign. In my undergraduate studies, I’ve developed a strong foundation in mathematical statistics and data analysis, which provided the framework for my current interests in data science and machine learning.\nI hope to continue my education and further explore the ethical implications of algorithm design, more advanced machine learning and statistical methods, and big data analytics. I’m also interested in researching the intersection of data science and social justice, with a long-term goal of being part of the efforts to standardize and codify the methods applied at this intersection. In such a data driven world, I believe that data science is a large part of the answer for a future of systemic accountability.\nI decided to create this website as a space to collect readings and thoughts on my professional interests, as well as somewhere to hold my current resume. Feel free to check out either of those in the tabs above!\nContact: malloryklostermann@outlook.com"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Current interests blog",
+    "section": "",
+    "text": "Here are some blog posts about what I’ve been researching lately!\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nDec 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Current interests blog",
+    "section": "",
+    "text": "Here are some blog posts about what I’ve been researching lately!\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nDec 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pers.html",
+    "href": "pers.html",
+    "title": "Personal Interests",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nCooking\n\n\n\n\n\n\n\n\n\n\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\n\n\n\nPlants\n\n\n\n\n\n\n\n\n\n\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "prof.html",
+    "href": "prof.html",
+    "title": "Professional Interests",
+    "section": "",
+    "text": "Coming soon!"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Current Research",
+    "section": "",
+    "text": "Here are some blog posts about what I’ve been researching lately!\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nDec 14, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "pers_posts/welcome/index.html",
+    "href": "pers_posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "prof_posts/welcome/index.html",
+    "href": "prof_posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Mallory Klostermann",
+    "section": "",
+    "text": "Major GPA: 3.92\nDean’s List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2022, Spring 2022\n\n\n\n\n\n\n\n\n\n\n\ncoming soon!\n\n\n\n\n\n\n\n\nAnalyze spreadsheets and data visualizations to generate reports of meteorological data from several field site eddy covariance flux towers to ensure proper data collection and equipment maintenance\nClean datasets and generate visualizations using R to locate potential errors in data collection, make corresponding corrections to the dataset, and analyze data collected by the lab Use Excel and to correctly format several years of continuously sampled data for submission to the Ameriflux database\nAssist in employee training, lab maintenance, data collection, and field work at UIUC’s Energy Farm and SoyFACE facilities\n\n\n\n\n\n\n\n\nReceived training in peer supervision, leadership, and effective management in a diverse work environment\nTrained a team of 20+ employees in customer service, daily protocol, emergency procedures, and work-related computer programs through several days of interactive presentations\nPresented monthly meetings, coordinated scheduling, assisted in staffing, and completed managerial duties\nCollaborated with a team of 13 paraprofessional staff to provide a cohesive, enriching living environment for more than 600 residents\n\nDesk Clerk, Allen Hall Front Desk, University of Illinois Housing, March 2019 - July 2021\nWarehouse Package Handler, Fedex, April 2021 - July 2021\nIntern, ToneGood Music Studio, March 2021 - August 2021\nHourly Security Staff, Krannert Art Museum, January 2021 - March 2021\nSummer Counselor, Next Generation Schools, May 2020 - August 2020\n3rd Shift Picker/Packer, WeatherTech, May 2019 - July 2019\nLifeguard and Swim Instructor, Korte Recreational Center, May 2014 - December 2018\n\n\n\n\n\n\n\n\n\n\nQuantCrit and Social Justice Research Workshop, 10 Jan 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssisted high school student in finding deeper conceptual understanding of course material in AP Statistics\nInstilled learning strategies and study habits to promote improved performance across applications\n\n\n\n\n\n\n\n\nAllowed user to select from and display more than 90 unique visualizations of features data pulled from the Spotify API\n\n\n\n\n\nGenerated an interactive R Shiny Application to display COVID cases among different subgroups over time\nImplemented reactive expressions, several R packages (ggplot2, dplyr, lubridate, etc.), and R Markdown\n\n\n\n\n\n\n\n\nDeveloped a basic Android application in Java that allowed users to search for restaurants in the area\nImplemented server/client interactions, user interface components, search algorithms, JSON encoding, etc.\n\n\n\n\n\n\n\n\nUsed Python (scikit-image, NumPy) to develop an algorithm that analyzed thousands of images to generate a mosaic of a single selected image\n\n\n\n\n\n\n\n\nWorked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students\n\n\n\n\n\n\n\nR, SAS, SQL, Python, statistical modeling and computing, machine learning algorithms, version control (Git), Jupyter notebooks\nProblem solving, teaching, leadership, critical thinking, communication, interpersonal and presentation skills"
+  },
+  {
+    "objectID": "cv.html#education-1",
+    "href": "cv.html#education-1",
+    "title": "Mallory Klostermann",
+    "section": "EDUCATION",
+    "text": "EDUCATION\n\nUniversity of Illinois at Urbana-Champaign May 2023 BSLAS in Statistics, Minor in Music, Computational Science and Engineering Certificate in Statistics GPA: 3.90 Dean’s List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2022, Spring 2022"
+  },
+  {
+    "objectID": "cv.html#work-experience",
+    "href": "cv.html#work-experience",
+    "title": "Mallory Klostermann",
+    "section": "WORK EXPERIENCE",
+    "text": "WORK EXPERIENCE\n\n\nUndergraduate Research Assistant January 2022 - Present\n\nCarl Bernacchi Environmental Plant Physiology Lab, School of Integrative Biology, USDA\nAnalyze spreadsheets and data visualizations to generate reports of meteorological data from several field site eddy covariance flux towers to ensure proper data collection and equipment maintenance Clean datasets and generate visualizations using R to locate potential errors in data collection, make corresponding corrections to the dataset, and analyze data collected by the lab Use Excel and to correctly format several years of continuously sampled data for submission to the Ameriflux database Assist in employee training, lab maintenance, data collection, and field work at UIUC’s Energy Farm and SoyFACE facilities\n\n\n\nSenior Desk Clerk / Desk Clerk………………………………………………………….March 2019 - December 2021\nAllen Hall Front Desk, University of Illinois Housing Received training in peer supervision, leadership, and effective management in a diverse work environment Trained a team of 20+ employees in customer service, daily protocol, emergency procedures, and work-related computer programs through several days of interactive presentations Presented monthly meetings, coordinated scheduling, assisted in staffing, and completed managerial duties Collaborated with a team of 13 paraprofessional staff to provide a cohesive, enriching living environment for more than 600 residents"
+  },
+  {
+    "objectID": "cv.html#projects-volunteer-work",
+    "href": "cv.html#projects-volunteer-work",
+    "title": "Mallory Klostermann",
+    "section": "PROJECTS & VOLUNTEER WORK",
+    "text": "PROJECTS & VOLUNTEER WORK\n\n\nR Shiny Project - COVID Dashboard………………………………………………………………………Spring 2022\nStatistics Programming Methods Generated an interactive R Shiny Application to display COVID cases among different subgroups over time Implemented reactive expressions, several R packages (ggplot2, dplyr, lubridate, etc.), and R Markdown\n\n\nAndroid Application…………………………………………………………………………………………Spring 2022\nIntro to Computer Science I Developed a basic Android application in Java that allowed users to search for restaurants in the area Implemented server/client interactions, user interface components, search algorithms, JSON encoding, etc.\n\n\nImage Mosaic……………………………………………………………………………………………………Fall 2021\nData Science Discovery Used Python (scikit-image, NumPy) to develop an algorithm that analyzed thousands of images to generate a mosaic of a single selected image\n\n\nStatistics Tutoring……………………………………………………………………………………………….Fall 2022\nUrbana Connections Center\n\n\nHip Hop XPress……………………………………………………………………………………………………….2020\nCommunity Outreach & Education Worked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students"
+  },
+  {
+    "objectID": "cv.html#skills",
+    "href": "cv.html#skills",
+    "title": "Mallory Klostermann",
+    "section": "SKILLS",
+    "text": "SKILLS\n\nR, Python, SAS, SQL, regression modeling, statistical inference, stochastic processes, version control (Git) Problem solving, leadership, initiative, communication, interpersonal and presentational skills"
+  },
+  {
+    "objectID": "Untitled/Untitled.html",
+    "href": "Untitled/Untitled.html",
+    "title": "Mallory Klostermann",
+    "section": "",
+    "text": "Some stuff about me\n\nI poisoned myself doing research.\nI was the first woman to win a Nobel prize\nI was the first person and only woman to win a Nobel prize in two different sciences.\n\n\n\nEducation\n\n\n# A tibble: 3 × 5\n  what                  when    with                where          why      \n  <chr>                 <chr>   <chr>               <chr>          <list>   \n1 Informal studies      1889-91 Flying University   Warsaw, Poland <chr [0]>\n2 Master of Physics     1893    Sorbonne Université Paris, France  <chr [0]>\n3 Master of Mathematics 1894    Sorbonne Université Paris, France  <chr [0]>\n\n\n\n\nNobel Prizes\n\n\n# A tibble: 2 × 3\n  what                      when with                                           \n  <glue>                   <dbl> <chr>                                          \n1 Nobel Prize in Physics    1903 Awarded for her work on radioactivity with Pie…\n2 Nobel Prize in Chemistry  1911 Awarded for the discovery of radium and poloni…\n\n\n\n\nPublications\n\n\n\n/var/folders/xy/s7nbfjyn4vj_dd0j1pxyspl80000gn/T//Rtmp0QPBxy/file5c24737dc603.yaml"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Mallory Klostermann",
+    "section": "EDUCATION",
+    "text": "EDUCATION\n\n\nUniversity of Illinois at Urbana-Champaign\n\nBSLAS Statistics, Minor in Music\n+ Major GPA: 3.92\n+ Dean's List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021,  \n|              Fall 2022, Spring 2022"
+  }
+]
