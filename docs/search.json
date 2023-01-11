@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mallory Klostermann",
+    "section": "",
+    "text": "Hello! I’m Mallory.\nI’m currently a senior in statistics at the University of Illinois in Urbana-Champaign. In my undergraduate studies, I’ve developed a strong foundation in mathematical statistics and data analysis, which provided the framework for my current interests in data science and machine learning.\nI hope to continue my education and further explore the ethical implications of algorithm design, more advanced machine learning and statistical methods, and big data analytics. I’m also interested in researching the intersection of data science and social justice, with a long-term goal of being part of the efforts to standardize and codify the methods applied at this intersection. In such a data driven world, I believe that data science is a large part of the answer for a future of systemic accountability.\nI decided to create this website as a space to collect readings and thoughts on my professional interests, as well as somewhere to hold my current resume. Feel free to check out either of those in the tabs above!\nContact: malloryklostermann@outlook.com"
+  },
+  {
+    "objectID": "pers.html",
+    "href": "pers.html",
+    "title": "Personal Interests",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\nCooking\n\n\n\n\n\n\n\n\n\n\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\n\n\n\nPlants\n\n\n\n\n\n\n\n\n\n\n\n\nDec 17, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Mallory Klostermann",
+    "section": "",
+    "text": "Major GPA: 3.92\nDean’s List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2022, Spring 2022\n\n\n\n\n\n\n\n\n\n\n\ncoming soon!\n\n\n\n\n\n\n\n\nAnalyze spreadsheets and data visualizations to generate reports of meteorological data from several field site eddy covariance flux towers to ensure proper data collection and equipment maintenance\nClean datasets and generate visualizations using R to locate potential errors in data collection, make corresponding corrections to the dataset, and analyze data collected by the lab Use Excel and to correctly format several years of continuously sampled data for submission to the Ameriflux database\nAssist in employee training, lab maintenance, data collection, and field work at UIUC’s Energy Farm and SoyFACE facilities\n\n\n\n\n\n\n\n\nReceived training in peer supervision, leadership, and effective management in a diverse work environment\nTrained a team of 20+ employees in customer service, daily protocol, emergency procedures, and work-related computer programs through several days of interactive presentations\nPresented monthly meetings, coordinated scheduling, assisted in staffing, and completed managerial duties\nCollaborated with a team of 13 paraprofessional staff to provide a cohesive, enriching living environment for more than 600 residents\n\nDesk Clerk, Allen Hall Front Desk, University of Illinois Housing, March 2019 - July 2021\nWarehouse Package Handler, Fedex, April 2021 - July 2021\nIntern, ToneGood Music Studio, March 2021 - August 2021\nHourly Security Staff, Krannert Art Museum, January 2021 - March 2021\nSummer Counselor, Next Generation Schools, May 2020 - August 2020\n3rd Shift Picker/Packer, WeatherTech, May 2019 - July 2019\nLifeguard and Swim Instructor, Korte Recreational Center, May 2014 - December 2018\n\n\n\n\n\n\n\n\n\n\nQuantCrit and Social Justice Research Workshop, 10 Jan 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAssisted high school student in finding deeper conceptual understanding of course material in AP Statistics\nInstilled learning strategies and study habits to promote improved performance across applications\n\n\n\n\n\n\n\n\nAllowed user to select from and display more than 90 unique visualizations of features data pulled from the Spotify API\n\n\n\n\n\nGenerated an interactive R Shiny Application to display COVID cases among different subgroups over time\nImplemented reactive expressions, several R packages (ggplot2, dplyr, lubridate, etc.), and R Markdown\n\n\n\n\n\n\n\n\nDeveloped a basic Android application in Java that allowed users to search for restaurants in the area\nImplemented server/client interactions, user interface components, search algorithms, JSON encoding, etc.\n\n\n\n\n\n\n\n\nUsed Python (scikit-image, NumPy) to develop an algorithm that analyzed thousands of images to generate a mosaic of a single selected image\n\n\n\n\n\n\n\n\nWorked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students\n\n\n\n\n\n\n\nR, SAS, SQL, Python, statistical modeling and computing, machine learning algorithms, version control (Git), Jupyter notebooks\nProblem solving, teaching, leadership, critical thinking, communication, interpersonal and presentation skills"
+  },
+  {
+    "objectID": "prof.html",
+    "href": "prof.html",
+    "title": "Professional Interests",
+    "section": "",
+    "text": "Coming soon!"
+  }
+]

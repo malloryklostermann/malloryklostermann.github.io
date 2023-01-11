@@ -5,7 +5,6 @@ about:
   image-width: 20em
   image-shape: rounded
 urlcolor: blue
-
 ---
 
 ### Hello! I'm Mallory.
@@ -14,12 +13,6 @@ I'm currently a senior in statistics at the University of Illinois in Urbana-Cha
 
 I hope to continue my education and further explore the ethical implications of algorithm design, more advanced machine learning and statistical methods, and big data analytics. I'm also interested in researching the intersection of data science and social justice, with a long-term goal of being part of the efforts to standardize and codify the methods applied at this intersection. In such a data driven world, I believe that data science is a large part of the answer for a future of systemic accountability.
 
-I decided to create this website as a space to collect readings and thoughts on my professional interests, as well as somewhere to hold my current resume. Feel free to check out either of those in the tabs above! 
+I decided to create this website as a space to collect readings and thoughts on my professional interests, as well as somewhere to hold my current resume. Feel free to check out either of those in the tabs above!
 
-Contact: [malloryklostermann@outlook.com](mailto:malloryklostermann@outlook.com)
-
-
-
-
-
-
+Contact: [malloryklostermann\@outlook.com](mailto:malloryklostermann@outlook.com)
