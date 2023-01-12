@@ -6,17 +6,21 @@
 
 ###### *BSLAS in Statistics, Minor in Music*
 
--   Major GPA: 3.92
+-   Major GPA: 3.93
 -   Dean's List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2022, Spring 2022
 
 ## WORK EXPERIENCE
 
 #### Undergraduate Research Assistant, *January 2023 - Present*
-##### University of Illinois, School of Social Work 
+
+##### University of Illinois, School of Social Work
+
 -   coming soon!
 
 #### Undergraduate Research Assistant, *January 2022 - Present*
+
 ##### [*Carl Bernacchi Environmental Plant Physiology Lab*](https://www.life.illinois.edu/bernacchi/), *School of Integrative Biology, USDA*
+
 -   Analyze spreadsheets and data visualizations to generate reports of meteorological data from several field site eddy covariance flux towers to ensure proper data collection and equipment maintenance
 -   Clean datasets and generate visualizations using R to locate potential errors in data collection, make corresponding corrections to the dataset, and analyze data collected by the lab Use Excel and to correctly format several years of continuously sampled data for submission to the [Ameriflux database](https://ameriflux.lbl.gov/data/aboutdata/)
 -   Assist in employee training, lab maintenance, data collection, and field work at UIUC's [Energy Farm](https://energyfarm.illinois.edu/#:~:text=About%20the%20Energy%20Farm,%2DChampaign%20campus'%20South%20Farms.) and [SoyFACE](https://soyface.illinois.edu/) facilities
@@ -42,48 +46,60 @@
 
 **3rd Shift Picker/Packer**, WeatherTech, *May 2019 - July 2019*
 
-**Lifeguard and Swim Instructor**, Korte Recreational Center, *May 2014 - December 2018*
+**Clarinet Lesson Instructor**, *February 2016 - August 2020*
 
+**Lifeguard and Swim Instructor**, Korte Recreational Center, *May 2014 - December 2018*
 
 ## PROJECTS, VOLUNTEER WORK, & PROFESSIONAL DEVELOPMENT
 
 #### Interdisciplinary and Critical Data Science Motivated by Social Justice, *Spring 2023*
+
 ##### [*Institute for Mathematical and Statistical Innovation*](https://www.imsi.institute/)
+
 -   [QuantCrit and Social Justice Research Workshop](https://www.imsi.institute/activities/quantcrit-and-social-justice-research/), *10 Jan 2023*
 
 #### [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning), *January 2023*
+
 ##### *Coursera course*
 
 #### Statistics Tutoring, *Fall 2022*
+
 ##### [*Urbana Connections Center*](https://www.urbanaconnectionscenter.org/)
+
 -   Assisted high school student in finding deeper conceptual understanding of course material in AP Statistics
 -   Instilled learning strategies and study habits to promote improved performance across applications
 
 #### R Shiny Applications
 
 ##### The Music of Bon Iver, Statistical Data Management, *Fall 2022*
-- Allowed user to select from and display more than 90 unique visualizations of features data pulled from the Spotify API
+
+-   Allowed user to select from and display more than 90 unique visualizations of features data pulled from the Spotify API
 
 ##### COVID Dashboard, Statistics Programming Methods, *Spring 2022*
--   Generated an interactive R Shiny Application to display COVID cases among different subgroups over time 
+
+-   Generated an interactive R Shiny Application to display COVID cases among different subgroups over time
 -   Implemented reactive expressions, several R packages (ggplot2, dplyr, lubridate, etc.), and R Markdown
 
 #### Android Application, *Spring 2022*
+
 ##### *Intro to Computer Science I*
+
 -   Developed a basic Android application in Java that allowed users to search for restaurants in the area
 -   Implemented server/client interactions, user interface components, search algorithms, JSON encoding, etc.
 
 #### Image Mosaic, *Fall 2021*
+
 ##### *Data Science Discovery*
+
 -   Used Python (scikit-image, NumPy) to develop an algorithm that analyzed thousands of images to generate a mosaic of a single selected image
 
-
 #### [Hip Hop XPress](https://publish.illinois.edu/hiphopxpress/), *2020*
+
 ##### *University of Illinois*
+
 -   Worked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students
 
 ## SKILLS
 
 -   R, SAS, SQL, Python, statistical modeling and computing, machine learning algorithms, version control (Git), Jupyter notebooks
 -   Problem solving, teaching, leadership, critical thinking, communication, interpersonal and presentation skills
-
