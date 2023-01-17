@@ -58,7 +58,7 @@
 
 -   [QuantCrit and Social Justice Research Workshop](https://www.imsi.institute/activities/quantcrit-and-social-justice-research/), *10 Jan 2023*
 
-#### [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning), *January 2023*
+#### [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning), *expected February 2023*
 
 ##### *Coursera course*
 
