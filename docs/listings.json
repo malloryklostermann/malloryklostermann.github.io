@@ -5,5 +5,14 @@
       "/pers_posts/cooking/index.html",
       "/pers_posts/plants/index.html"
     ]
+  },
+  {
+    "listing": "/prof.html",
+    "items": [
+      "/prof_posts/sw/index.html",
+      "/prof_posts/dssj/index.html",
+      "/prof_posts/cnn/index.html",
+      "/prof_posts/ml/index.html"
+    ]
   }
 ]

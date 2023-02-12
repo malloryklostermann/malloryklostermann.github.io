@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,12 +60,42 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-author','listing-date','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -110,12 +142,14 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="data science">data science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="deep learning">deep learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="machine learning">machine learning <span class="quarto-category-count">(1)</span></div><div class="category" data-category="methods">methods <span class="quarto-category-count">(2)</span></div><div class="category" data-category="research interests">research interests <span class="quarto-category-count">(1)</span></div><div class="category" data-category="social justice">social justice <span class="quarto-category-count">(2)</span></div><div class="category" data-category="social work">social work <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -134,11 +168,178 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p>Coming soon!</p>
+<p><strong>2/12/23:</strong> The semester picked up a lot faster than I anticipated, but here is some of what I’ve been doing lately!</p>
 
 
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+       <option value="" disabled="" selected="" hidden="">Order By</option>
+       <option value="index" data-direction="asc">Default</option>
+         <option value="listing-title" data-direction="asc">
+          Title
+        </option>
+         <option value="listing-date-sort" data-direction="asc">
+          Date - Oldest
+        </option>
+         <option value="listing-date-sort" data-direction="desc">
+          Date - Newest
+        </option>
+         <option value="listing-author" data-direction="asc">
+          Author
+        </option>
+     </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="social work,social justice" data-listing-date-sort="1676181600000" data-listing-file-modified-sort="1676218711199" data-listing-reading-time-sort="0.095">
+<a href="./prof_posts/sw/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./prof_posts/sw/sw.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Social Work
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('social work'); return false;">
+social work
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('social justice'); return false;">
+social justice
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 12, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="data science,social justice,research interests" data-listing-date-sort="1676181600000" data-listing-file-modified-sort="1676219150858" data-listing-reading-time-sort="0.165">
+<a href="./prof_posts/dssj/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./prof_posts/dssj/dssj.JPG" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Data Science &amp; Social Justice
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('social justice'); return false;">
+social justice
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('research interests'); return false;">
+research interests
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 12, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="deep learning,methods" data-listing-date-sort="1676181600000" data-listing-file-modified-sort="1676219337982" data-listing-reading-time-sort="0.075">
+<a href="./prof_posts/cnn/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./prof_posts/cnn/cnn.jpeg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Convolutional Neural Networks
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('deep learning'); return false;">
+deep learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methods'); return false;">
+methods
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 12, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="machine learning,methods" data-listing-date-sort="1676181600000" data-listing-file-modified-sort="1676217622969" data-listing-reading-time-sort="0.05">
+<a href="./prof_posts/ml/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="./prof_posts/ml/ml.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Machine Learning
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('machine learning'); return false;">
+machine learning
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('methods'); return false;">
+methods
+</div>
+</div>
+<div class="card-text listing-description">
+
+</div>
+<div class="card-attribution card-text-small justify">
+<div class="listing-author">
+
+</div>
+<div class="listing-date">
+Feb 12, 2023
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

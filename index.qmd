@@ -1,9 +1,9 @@
 ---
-image: me.jpeg
+image: new.jpg
 about:
-  template: broadside
-  image-width: 10em
-  image-shape: rounded
+  template: jolla
+  image-width: 20em
+  image-shape: rectangle
 urlcolor: blue
 ---
 

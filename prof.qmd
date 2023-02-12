@@ -1,17 +1,14 @@
 ---
 title: "Professional Interests"
+listing:
+  contents: prof_posts
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: false
 ---
 
-```{r, include = FALSE}
-# listing:
-#   contents: prof_posts
-#   sort: "date desc"
-#   type: grid
-#   categories: true
-#   sort-ui: true
-#   filter-ui: true
-# page-layout: full
-# title-block-banner: false
-```
-
-Coming soon!
+**2/12/23:** The semester picked up a lot faster than I anticipated, but here is some of what I've been doing lately!
