@@ -1,0 +1,13 @@
+---
+title: "Convolutional Neural Networks"
+date: "2023-02-12"
+categories: [deep learning, methods]
+image: cnn.jpeg
+---
+
+#### [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
+##### Luis Serrano
+
+#### [ProbSevere LightningCast: A Deep-Learning Model for Satellite-Based Lightning Nowcasting](https://journals.ametsoc.org/view/journals/wefo/37/7/WAF-D-22-0019.1.xml)
+##### John L. Cintineo
+

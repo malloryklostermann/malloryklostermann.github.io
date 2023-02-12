@@ -1,6 +1,14 @@
 ---
 title: "Data Science & Social Justice"
-date: "2023-1-9"
+date: "2023-2-12"
 categories: [data science, social justice, research interests]
 image: "dssj.JPG"
 ---
+
+#### [Data Science as Political Action: Grounding Data Science in a Politics of Justice](https://scholar.harvard.edu/bgreen/publications/data-science-political-action-grounding-data-science-politics-justice)
+##### Ben Green
+
+#### Interdisciplinary and Critical Data Science Motivated by Social Justice
+##### [*Institute for Mathematical and Statistical Innovation*](https://www.imsi.institute/)
+-   [QuantCrit and Social Justice Research Workshop](https://www.imsi.institute/activities/quantcrit-and-social-justice-research/)
+-   [Driving the Justice Agenda Forward](https://www.imsi.institute/activities/driving-the-justice-agenda-forward/)
