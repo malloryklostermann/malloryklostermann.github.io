@@ -9,21 +9,33 @@
 -   Major GPA: 3.93
 -   Dean's List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022
 
-## WORK & RESEARCH EXPERIENCE
+## JOB EXPERIENCE
 
 #### Undergraduate Research Experience in Statistics, *January 2023 - Present*
 
 ##### Sandia National Laboratories & University of Illinois
 
--   coming soon!
+-   Work with a team of undergraduate researchers to develop methods for forecasting lightning strikes using spatio-temporal point process models, deep learning models, convolutional neural networks, and various regression models
+-   Summarize completed research in a poster presentation for the Illinois Undergraduate Research Symposium
+
 
 #### Independent Study, *January 2023 - Present*
 
 ##### University of Illinois, School of Social Work
 
--   coming soon!
+-   Perform statistical analyses and develop an understanding of ideologies commonly practiced in the social sciences 
+-   Conduct research on how the social work profession educates students and practitioners on the criminal legal system and examine how this content aligns with social justice tenets
+-   Practice writing mechanics in methods, analyses, and results sections of peer-reviewed journal articles
 
-#### Undergraduate Research Assistant, *January 2022 - Present*
+
+#### Course Assistant, *January 2023 - Present*
+
+##### STAT 385: Statistics Programming Methods, STAT 410: Statistics and Probability II
+-   Facilitate personalized learning experiences in office hours to ensure student comprehension of general programming practices, data wrangling, and methods for generating data visualizations in R Studio
+-   Contribute to development of meaningful student assessment methods in PrairieLearn using R and Github
+-   Proctor exams and grade assignments with feedback necessary to promote future student success
+
+#### Undergraduate Research Assistant, *January 2022 - February 2023*
 
 ##### [*Carl Bernacchi Environmental Plant Physiology Lab*](https://www.life.illinois.edu/bernacchi/), *School of Integrative Biology, USDA*
 
@@ -42,15 +54,9 @@
 
 **Desk Clerk**, Allen Hall Front Desk, University of Illinois Housing, *March 2019 - July 2021*
 
-**Warehouse Package Handler**, Fedex, *April 2021 - July 2021*
-
 **Intern**, ToneGood Music Studio, *March 2021 - August 2021*
 
-**Hourly Security Staff**, Krannert Art Museum, *January 2021 - March 2021*
-
 **Summer Counselor**, Next Generation Schools, *May 2020 - August 2020*
-
-**3rd Shift Picker/Packer**, WeatherTech, *May 2019 - July 2019*
 
 **Clarinet Lesson Instructor**, *February 2016 - August 2020*
 
@@ -63,10 +69,6 @@
 ##### [*Institute for Mathematical and Statistical Innovation*](https://www.imsi.institute/)
 
 -   [QuantCrit and Social Justice Research Workshop](https://www.imsi.institute/activities/quantcrit-and-social-justice-research/), *10 Jan 2023*
-
-#### [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning), *expected February 2023*
-
-##### *Coursera course*
 
 #### Statistics Tutoring, *Fall 2022*
 

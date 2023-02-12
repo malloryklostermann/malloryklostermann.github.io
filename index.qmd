@@ -2,7 +2,7 @@
 image: me.jpeg
 about:
   template: broadside
-  image-width: 20em
+  image-width: 10em
   image-shape: rounded
 urlcolor: blue
 ---
