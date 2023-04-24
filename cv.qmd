@@ -6,16 +6,16 @@
 
 ###### *BSLAS in Statistics, Minor in Music*
 
--   Major GPA: 3.91
+-   Total Institution GPA: 3.93
 -   Dean's List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022
 
-## JOB EXPERIENCE
+## EXPERIENCE
 
 #### Undergraduate Research Experience in Statistics, *January 2023 - Present*
 
 ##### Sandia National Laboratories & University of Illinois
 
--   Work with a team of undergraduate researchers to develop methods for forecasting lightning strikes using spatio-temporal point process models, deep learning models, convolutional neural networks, and various regression models
+-   Work with a team of undergraduate researchers to develop a method for forecasting lightning strikes using a generalized linear mixed effects regression model
 -   Summarize completed research in a poster presentation for the Illinois Undergraduate Research Symposium
 
 
@@ -23,9 +23,9 @@
 
 ##### University of Illinois, School of Social Work
 
--   Perform statistical analyses and develop an understanding of ideologies commonly practiced in the social sciences 
--   Conduct research on how the social work profession educates students and practitioners on the criminal legal system and examine how this content aligns with social justice tenets
--   Practice writing mechanics in methods, analyses, and results sections of peer-reviewed journal articles
+-   Read peer-reviewed articles on the social work profession and how it educates students and practitioners on the criminal legal system
+-   Critically examine problem-solving courts through an exploratory data analysis of the 2012 Census of Problem-Solving Courts
+-   Summarize completed research in a poster presentation for the Illinois Undergraduate Research Symposium
 
 
 #### Course Assistant, *January 2023 - Present*
@@ -106,7 +106,7 @@
 
 ##### *University of Illinois*
 
--   Worked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students
+-   Worked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students to learn about and participate in the recording and mixing processes
 
 ## SKILLS
 
