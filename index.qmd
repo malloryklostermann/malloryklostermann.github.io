@@ -9,8 +9,8 @@ urlcolor: blue
 
 ### Hello! I'm Mallory.
 
-I'm currently a senior in statistics at the University of Illinois in Urbana-Champaign. In my undergraduate studies, I've developed a strong foundation in mathematical statistics and data analysis, which provided the framework for my current interests in data science and machine learning. I hope to continue my education and further explore the ethical implications of algorithm design, more advanced machine learning and statistical methods, and big data analytics. 
+I am excited to announce that I've just started a masters in statistics at the University of Illinois in Urbana-Champaign! Here, I plan to explore the mathematics behind popular machine learning algorithms, expand my knowledge of statistical models and frameworks, gain experiences working with real-world big data, and learn how all of these topics can be tied together to answer industry's toughest questions. 
 
-I decided to create this website as a space to collect readings and thoughts on my professional interests, as well as somewhere to hold my current resume. Feel free to check out either of those in the tabs above!
+Check back for website updates in the coming weeks! 
 
 Contact: [malloryklostermann\@outlook.com](mailto:malloryklostermann@outlook.com)

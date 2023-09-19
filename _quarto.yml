@@ -9,7 +9,6 @@ website:
     right:
       - text: Home
         file: index.qmd
-      - prof.qmd
       - text: CV
         file: cv.qmd
     left:

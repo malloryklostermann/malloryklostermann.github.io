@@ -2,46 +2,47 @@
 
 ## EDUCATION
 
-#### **University of Illinois at Urbana-Champaign**, *expected May 2023*
+#### **University of Illinois at Urbana-Champaign**
 
-###### *BSLAS in Statistics, Minor in Music*
-
--   Total Institution GPA: 3.93
--   Dean's List: Fall 2018, Spring 2019, Spring 2020, Fall 2020, Spring 2021, Fall 2021, Spring 2022, Fall 2022
-
-## EXPERIENCE
-
-#### Undergraduate Research Experience in Statistics, *January 2023 - Present*
-
-##### Sandia National Laboratories & University of Illinois
-
--   Work with a team of undergraduate researchers to develop a method for forecasting lightning strikes using a generalized linear mixed effects regression model
--   Summarize completed research in a poster presentation for the Illinois Undergraduate Research Symposium
+###### Statistics, MS, *expected May 2025* 
 
 
-#### Independent Study, *January 2023 - Present*
+###### Statistics, BSLAS; Music Minor, *completed May 2023*
+-   GPA: 3.92
 
-##### University of Illinois, School of Social Work
+## RESEARCH EXPERIENCE
 
--   Read peer-reviewed articles on the social work profession and how it educates students and practitioners on the criminal legal system
--   Critically examine problem-solving courts through an exploratory data analysis of the 2012 Census of Problem-Solving Courts
--   Summarize completed research in a poster presentation for the Illinois Undergraduate Research Symposium
+##### Sandia National Laboratories & University of Illinois Department of Statistics, *January 2023 - May 2023*
+
+-   Worked with a team of undergraduate researchers to develop a generalized linear mixed model with AR(1) covariance structure for forecasting lightning strikes using NOAA’s meteorological data  
+-   Summarized completed research in a poster presentation for the Illinois Undergraduate Research Symposium
 
 
-#### Course Assistant, *January 2023 - Present*
+##### University of Illinois School of Social Work, *January 2023 - July 2023*
 
-##### STAT 385: Statistics Programming Methods, STAT 410: Statistics and Probability II
--   Facilitate personalized learning experiences in office hours to ensure student comprehension of general programming practices, data wrangling, and methods for generating data visualizations in R Studio
--   Contribute to development of meaningful student assessment methods in PrairieLearn using R and Github
--   Proctor exams and grade assignments with feedback necessary to promote future student success
+-   Conducted an exploratory factor analysis on survey results to extract features determining social justice alignment among social work program directors nationwide
+-   Developed a Poisson rate model attempting to identify variables contributing significantly to the graduation rates of problem-solving courts in the United States
 
-#### Undergraduate Research Assistant, *January 2022 - February 2023*
-
-##### [*Carl Bernacchi Environmental Plant Physiology Lab*](https://www.life.illinois.edu/bernacchi/), *School of Integrative Biology, USDA*
+##### [Carl Bernacchi Environmental Plant Physiology Lab](https://www.life.illinois.edu/bernacchi/), School of Integrative Biology, USDA, *January 2022 - February 2023*
 
 -   Analyze spreadsheets and data visualizations to generate reports of meteorological data from several field site eddy covariance flux towers to ensure proper data collection and equipment maintenance
 -   Clean datasets and generate visualizations using R to locate potential errors in data collection, make corresponding corrections to the dataset, and analyze data collected by the lab Use Excel and to correctly format several years of continuously sampled data for submission to the [Ameriflux database](https://ameriflux.lbl.gov/data/aboutdata/)
 -   Assist in employee training, lab maintenance, data collection, and field work at UIUC's [Energy Farm](https://energyfarm.illinois.edu/#:~:text=About%20the%20Energy%20Farm,%2DChampaign%20campus'%20South%20Farms.) and [SoyFACE](https://soyface.illinois.edu/) facilities
+
+
+## WORK EXPERIENCE
+
+#### Teaching Assistant, *January 2023 - Present*
+
+##### STAT 107: Data Science Discovery
+
+#### Course Assistant, *January 2023 - Present*
+
+##### STAT 385: Statistics Programming Methods, STAT 410: Statistics and Probability II
+
+-   Facilitated personalized learning experiences in office hours to ensure student comprehension of general programming practices, data wrangling, and methods for generating data visualizations in R Studio
+-   Contributed to development of meaningful student assessment methods in PrairieLearn using R and Github
+-   Proctored exams and graded assignments with feedback necessary to promote future student success
 
 #### Senior Desk Clerk, *August 2021 - December 2021*
 
@@ -60,9 +61,14 @@
 
 **Clarinet Lesson Instructor**, *February 2016 - August 2020*
 
-**Lifeguard and Swim Instructor**, Korte Recreational Center, *May 2014 - December 2018*
+**Lifeguard and Swim Instructor**, Korte Recreation Center, *May 2014 - December 2018*
 
-## PROJECTS, VOLUNTEER WORK, & PROFESSIONAL DEVELOPMENT
+
+## PROFESSIONAL DEVELOPMENT
+
+#### Coursera Machine Learning Specialization, *May 2023 - Present*
+##### Stanford and Deep Learning.AI
+
 
 #### Interdisciplinary and Critical Data Science Motivated by Social Justice, *Spring 2023*
 
@@ -78,35 +84,6 @@
 -   Assisted high school student in finding deeper conceptual understanding of course material in AP Statistics
 -   Instilled learning strategies and study habits to promote improved performance across applications
 
-#### R Shiny Applications
-
-##### The Music of Bon Iver, Statistical Data Management, *Fall 2022*
-
--   Allowed user to select from and display more than 90 unique visualizations of features data pulled from the Spotify API
-
-##### COVID Dashboard, Statistics Programming Methods, *Spring 2022*
-
--   Generated an interactive R Shiny Application to display COVID cases among different subgroups over time
--   Implemented reactive expressions, several R packages (ggplot2, dplyr, lubridate, etc.), and R Markdown
-
-#### Android Application, *Spring 2022*
-
-##### *Intro to Computer Science I*
-
--   Developed a basic Android application in Java that allowed users to search for restaurants in the area
--   Implemented server/client interactions, user interface components, search algorithms, JSON encoding, etc.
-
-#### Image Mosaic, *Fall 2021*
-
-##### *Data Science Discovery*
-
--   Used Python (scikit-image, NumPy) to develop an algorithm that analyzed thousands of images to generate a mosaic of a single selected image
-
-#### [Hip Hop XPress](https://publish.illinois.edu/hiphopxpress/), *2020*
-
-##### *University of Illinois*
-
--   Worked with a team of musicians, engineers, and architects to design and build a traveling music studio for middle and high school students to learn about and participate in the recording and mixing processes
 
 ## SKILLS
 
