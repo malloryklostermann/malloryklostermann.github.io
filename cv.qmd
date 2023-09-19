@@ -87,5 +87,6 @@
 
 ## SKILLS
 
--   R, SAS, SQL, Python, statistical modeling and computing, machine learning algorithms, version control (Git), Jupyter notebooks
--   Problem solving, teaching, leadership, critical thinking, communication, interpersonal and presentation skills
+-   R, supervised learning algorithms (regression, KNN, random forest, discriminant analysis), unsupervised learning algorithms (PCA, EFA, clustering), mathematical statistics, version control (Git), Python, SAS, SQL
+-   Critical thinking, leadership, problem-solving, communication, interpersonal and presentation skills
+
