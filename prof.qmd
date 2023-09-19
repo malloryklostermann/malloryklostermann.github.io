@@ -10,5 +10,3 @@ listing:
 page-layout: full
 title-block-banner: false
 ---
-
-**2/12/23:** The semester picked up a lot faster than I anticipated, but here is some of what I've been doing lately!
