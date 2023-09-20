@@ -4,19 +4,18 @@
 
 #### **University of Illinois at Urbana-Champaign**
 
-###### Statistics, MS, *expected May 2025* 
-
+###### Statistics, MS, *expected May 2025*
 
 ###### Statistics, BSLAS; Music Minor, *completed May 2023*
+
 -   GPA: 3.92
 
 ## RESEARCH EXPERIENCE
 
 ##### Sandia National Laboratories & University of Illinois Department of Statistics, *January 2023 - May 2023*
 
--   Worked with a team of undergraduate researchers to develop a generalized linear mixed model with AR(1) covariance structure for forecasting lightning strikes using NOAA’s meteorological data  
+-   Worked with a team of undergraduate researchers to develop a generalized linear mixed model with AR(1) covariance structure for forecasting lightning strikes using NOAA's meteorological data\
 -   Summarized completed research in a poster presentation for the Illinois Undergraduate Research Symposium
-
 
 ##### University of Illinois School of Social Work, *January 2023 - July 2023*
 
@@ -29,14 +28,13 @@
 -   Clean datasets and generate visualizations using R to locate potential errors in data collection, make corresponding corrections to the dataset, and analyze data collected by the lab Use Excel and to correctly format several years of continuously sampled data for submission to the [Ameriflux database](https://ameriflux.lbl.gov/data/aboutdata/)
 -   Assist in employee training, lab maintenance, data collection, and field work at UIUC's [Energy Farm](https://energyfarm.illinois.edu/#:~:text=About%20the%20Energy%20Farm,%2DChampaign%20campus'%20South%20Farms.) and [SoyFACE](https://soyface.illinois.edu/) facilities
 
-
 ## WORK EXPERIENCE
 
-#### Teaching Assistant, *January 2023 - Present*
+#### Teaching Assistant, *August 2023 - Present*
 
 ##### STAT 107: Data Science Discovery
 
-#### Course Assistant, *January 2023 - Present*
+#### Course Assistant, *January 2023 - May 2023*
 
 ##### STAT 385: Statistics Programming Methods, STAT 410: Statistics and Probability II
 
@@ -63,12 +61,11 @@
 
 **Lifeguard and Swim Instructor**, Korte Recreation Center, *May 2014 - December 2018*
 
-
 ## PROFESSIONAL DEVELOPMENT
 
 #### Coursera Machine Learning Specialization, *May 2023 - Present*
-##### Stanford and Deep Learning.AI
 
+##### Stanford and Deep Learning.AI
 
 #### Interdisciplinary and Critical Data Science Motivated by Social Justice, *Spring 2023*
 
@@ -84,9 +81,7 @@
 -   Assisted high school student in finding deeper conceptual understanding of course material in AP Statistics
 -   Instilled learning strategies and study habits to promote improved performance across applications
 
-
 ## SKILLS
 
 -   R, supervised learning algorithms (regression, KNN, random forest, discriminant analysis), unsupervised learning algorithms (PCA, EFA, clustering), mathematical statistics, version control (Git), Python, SAS, SQL
 -   Critical thinking, leadership, problem-solving, communication, interpersonal and presentation skills
-
