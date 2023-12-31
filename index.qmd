@@ -11,6 +11,4 @@ urlcolor: blue
 
 I am excited to announce that I've just started a masters in statistics at the University of Illinois in Urbana-Champaign! Here, I plan to explore the mathematics behind popular machine learning algorithms, expand my knowledge of statistical models and frameworks, gain experiences working with real-world big data, and learn how all of these topics can be tied together to answer industry's toughest questions. 
 
-Check back for website updates in the coming weeks! 
-
 Contact: [malloryklostermann\@outlook.com](mailto:malloryklostermann@outlook.com)
